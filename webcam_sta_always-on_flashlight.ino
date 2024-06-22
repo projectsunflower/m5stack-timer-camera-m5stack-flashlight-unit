@@ -6,10 +6,10 @@
  * @date 2024-01-02 extended on 2024-06-22
  *
  *
- * @Hardwares: TimerCAM
+ * @Hardwares: TimerCAM, Flashlight Unit, connected via the supplied grove connector
  * @Platform Version: Arduino M5Stack Board Manager v2.0.9
  * @Dependent Library:
- * TimerCam-arduino: https://github.com/m5stack/TimerCam-arduino
+ * TimerCam-arduino: https://github.com/m5stack/TimerCam-arduino / https://github.com/projectsunflower/m5stack-timer-camera-m5stack-flashlight-unit/tree/main/webcam_sta_always-on_flashlight.ino
  */
 #include "M5TimerCAM.h"
 #include <WiFi.h>
